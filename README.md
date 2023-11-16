@@ -10,3 +10,6 @@ email: birklaus@gmail.com
 
 Steam Community page:
 https://store.steampowered.com/developer/ArteBirklaus
+
+Games in development:
+Warlock's Gantlet
