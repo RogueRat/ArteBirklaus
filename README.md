@@ -11,5 +11,11 @@ email: birklaus@gmail.com
 Steam Community page:
 https://store.steampowered.com/developer/ArteBirklaus
 
+Twitch channel: 
+https://www.twitch.tv/artebirklaus
+
+YouTube channel:
+https://www.youtube.com/@artebirklaus7631
+
 Games in development:
 Warlock's Gantlet
