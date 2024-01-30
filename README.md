@@ -17,5 +17,8 @@ https://www.twitch.tv/artebirklaus
 YouTube channel:
 https://www.youtube.com/@artebirklaus7631
 
+Web Shop on Shopify:
+https://arte-birklaus.myshopify.com/
+
 Games in development:
 Warlock's Gantlet
